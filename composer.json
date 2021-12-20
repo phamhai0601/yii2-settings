@@ -44,5 +44,5 @@
 		"psr-4" : {
 			"phamhai\\setting\\" : "src/"
 		}
-	},
+	}
 }
