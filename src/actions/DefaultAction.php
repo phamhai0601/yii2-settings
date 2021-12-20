@@ -1,9 +1,9 @@
 <?php
-namespace navatech\setting\actions;
+namespace phamhai\setting\actions;
 
-use navatech\language\Translate;
-use navatech\setting\models\Setting;
-use navatech\setting\Module;
+use phamhai\language\Translate;
+use phamhai\setting\models\Setting;
+use phamhai\setting\Module;
 use Yii;
 use yii\base\Action;
 use yii\web\UploadedFile;

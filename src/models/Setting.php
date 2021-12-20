@@ -1,6 +1,6 @@
 <?php
 
-namespace navatech\setting\models;
+namespace phamhai\setting\models;
 
 use kartik\password\PasswordInput;
 use kartik\widgets\ColorInput;
@@ -11,9 +11,9 @@ use kartik\widgets\RangeInput;
 use kartik\widgets\Select2;
 use kartik\widgets\SwitchInput;
 use kartik\widgets\TimePicker;
-use navatech\language\Translate;
-use navatech\roxymce\widgets\RoxyMceWidget;
-use navatech\setting\Module;
+use phamhai\language\Translate;
+use phamhai\roxymce\widgets\RoxyMceWidget;
+use phamhai\setting\Module;
 use Yii;
 use yii\base\ErrorException;
 use yii\bootstrap5\Html;

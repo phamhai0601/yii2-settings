@@ -1,11 +1,11 @@
 <?php
-namespace navatech\setting\controllers;
+namespace phamhai\setting\controllers;
 
-use navatech\base\Module;
-use navatech\language\Translate;
-use navatech\role\filters\RoleFilter;
-use navatech\setting\models\Setting;
-use navatech\setting\models\SettingSearch;
+use phamhai\base\Module;
+use phamhai\language\Translate;
+use phamhai\role\filters\RoleFilter;
+use phamhai\setting\models\Setting;
+use phamhai\setting\models\SettingSearch;
 use Yii;
 use yii\filters\AccessControl;
 use yii\filters\VerbFilter;

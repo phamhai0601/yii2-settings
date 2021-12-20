@@ -1,7 +1,7 @@
 <?php
 use insolita\iconpicker\Iconpicker;
 use kartik\widgets\Select2;
-use navatech\setting\models\Setting;
+use phamhai\setting\models\Setting;
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 

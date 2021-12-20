@@ -1,7 +1,7 @@
 <?php
 /* @var $this View */
 /* @var $model Setting */
-use navatech\setting\models\Setting;
+use phamhai\setting\models\Setting;
 use yii\helpers\Html;
 use yii\web\View;
 

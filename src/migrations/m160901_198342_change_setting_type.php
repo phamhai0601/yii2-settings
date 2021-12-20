@@ -1,5 +1,5 @@
 <?php
-use navatech\setting\models\Setting;
+use phamhai\setting\models\Setting;
 
 /**
  * Created by PhpStorm.

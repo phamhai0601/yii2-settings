@@ -1,12 +1,12 @@
 <?php
 
-namespace navatech\setting;
+namespace phamhai\setting;
 
 use Yii;
 
-class Module extends \navatech\base\Module {
+class Module extends \phamhai\base\Module {
 
-	public    $controllerNamespace   = 'navatech\setting\controllers';
+	public    $controllerNamespace   = 'phamhai\setting\controllers';
 
 	public    $enableMultiLanguage = false;
 

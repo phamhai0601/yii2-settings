@@ -7,7 +7,7 @@
  * @date    05/07/2016
  * @time    11:50 PM
  */
-namespace navatech\setting;
+namespace phamhai\setting;
 
 use Yii;
 use yii\base\Application;

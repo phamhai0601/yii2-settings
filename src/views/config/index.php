@@ -4,8 +4,8 @@
 /* @var $dataProvider ActiveDataProvider */
 use kartik\editable\Editable;
 use kartik\grid\GridView;
-use navatech\setting\models\Setting;
-use navatech\setting\models\SettingSearch;
+use phamhai\setting\models\Setting;
+use phamhai\setting\models\SettingSearch;
 use yii\data\ActiveDataProvider;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
